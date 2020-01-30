@@ -22,7 +22,7 @@ Then bill is generated with final amount
  Examples:
    |user|password|
    |Lalitha|Password123|
-   |John|Ravi123|
+   |John|Ravi1234|
 @datadriven
 Scenario: Search a product 
 When Larry searches for products in search field
